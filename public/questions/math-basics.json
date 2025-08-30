@@ -1,0 +1,10 @@
+[{"prompt":"7 + 5 =","choices":["10","11","12","13"],"answerIndex":2},
+{"prompt":"9 − 4 =","choices":["6","5","4","3"],"answerIndex":1},
+{"prompt":"3 × 6 =","choices":["16","18","21","24"],"answerIndex":1},
+{"prompt":"20 ÷ 5 =","choices":["2","3","4","5"],"answerIndex":2},
+{"prompt":"8 is…","choices":["Odd","Even","Prime","Negative"],"answerIndex":1},
+{"prompt":"The next number after 19 is…","choices":["18","19","20","21"],"answerIndex":2},
+{"prompt":"Half of 14 is…","choices":["5","6","7","8"],"answerIndex":2},
+{"prompt":"Which is the largest?","choices":["0.3","0.33","0.303","0.3030"],"answerIndex":1},
+{"prompt":"¼ as a decimal is…","choices":["0.5","0.25","0.4","0.2"],"answerIndex":1},
+{"prompt":"Perimeter of 3×2 rectangle =","choices":["10","12","14","6"],"answerIndex":0}]

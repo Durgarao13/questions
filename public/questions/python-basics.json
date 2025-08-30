@@ -1,0 +1,10 @@
+[{"prompt":"What is the output of print(2 + 3 * 2)?","choices":["10","8","12","7"],"answerIndex":1},
+{"prompt":"Which is a valid variable name?","choices":["2name","name_2","name-2","class"],"answerIndex":1},
+{"prompt":"Type of True in Python is…","choices":["bool","int","str","list"],"answerIndex":0},
+{"prompt":"Which brackets create a list?","choices":["[]","()","{}","<>"],"answerIndex":0},
+{"prompt":"len('Hello') returns…","choices":["4","5","6","'Hello'"],"answerIndex":1},
+{"prompt":"'3' + '2' equals…","choices":["5","'32'","Error","'5'"],"answerIndex":1},
+{"prompt":"s='abcde'; s[1:4] gives…","choices":["'bcd'","'abc'","'abcd'","'cde'"],"answerIndex":0},
+{"prompt":"d={'a':1}; d['a'] returns…","choices":["1","'a'","KeyError","None"],"answerIndex":0},
+{"prompt":"for i in range(3): prints i as…","choices":["1,2,3","0,1,2","0,1,2,3","2,3"],"answerIndex":1},
+{"prompt":"1 == True evaluates to…","choices":["True","False","Error","None"],"answerIndex":0}]

@@ -1,0 +1,10 @@
+[{"prompt":"list(range(1,5)) equals…","choices":["[1,2,3,4,5]","[0,1,2,3,4]","[1,2,3,4]","[2,3,4,5]"],"answerIndex":2},
+{"prompt":"d.get('x',0) when 'x' missing returns…","choices":["None","Error","0","'x'"],"answerIndex":2},
+{"prompt":"Squares 0..4 with list comprehension:","choices":["[i*i for i in range(5)]","(i*i for i in range(5))","{i*i for i in range(5)}","[i for i in range(5)]"],"answerIndex":0},
+{"prompt":"if __name__ == '__main__': means…","choices":["Main class","Run when executed directly","Check version","Import module"],"answerIndex":1},
+{"prompt":"sum(range(3)) gives…","choices":["6","3","1","0"],"answerIndex":1},
+{"prompt":"Tuples are…","choices":["Mutable","Immutable","Only numbers","Unordered"],"answerIndex":1},
+{"prompt":"Set {1,1,2} becomes…","choices":["{1,1,2}","{1,2}","[1,2]","Error"],"answerIndex":1},
+{"prompt":"Default arg pitfall relates to…","choices":["Mutable defaults","Return type","Indentation","Scope"],"answerIndex":0},
+{"prompt":"try/except catches…","choices":["All bugs","Runtime errors thrown","Syntax errors","Type hints"],"answerIndex":1},
+{"prompt":"lambda x: x+1 is…","choices":["Statement","Anonymous function","Decorator","Generator"],"answerIndex":1}]
